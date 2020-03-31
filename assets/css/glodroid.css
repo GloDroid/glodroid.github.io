@@ -17,3 +17,17 @@ h2 {
 h3 {
   color: #8EC549;
 }
+
+#container {
+  background: transparent url(../images/highlight-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+
+.inner {
+  background: rgba(230, 231, 232, 0.9);
+  padding-left: 100px;
+  padding-right: 100px;
+}
