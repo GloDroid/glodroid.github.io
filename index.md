@@ -24,3 +24,17 @@ to support Orange Pi platform in a way that is:
 	mozallowfullscreen="true"
 	webkitallowfullscreen="true"
 ></iframe>
+
+---
+
+## Fetch and Build
+
+```shell
+mkdir -p GloDroid
+cd GloDroid
+repo init -u https://github.com/glodroid/glodroid_manifest
+repo sync -cq
+source ./build/envsetup.sh
+lunch plus2e-userdebug
+make sdcard
+```
