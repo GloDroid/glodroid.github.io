@@ -1,3 +1,8 @@
 title: GloDroid
 description: Free and opensource AOSP based Android for the world's most accessible development platforms.
 theme: jekyll-theme-tactile
+
+github:
+  public: true
+  is_project_page: true
+  repository_url: https://github.com/GloDroid/glodroid_manifest
