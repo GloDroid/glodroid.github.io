@@ -11,3 +11,16 @@ to support Orange Pi platform in a way that is:
 - Close to mainline Android as much as it's possible;
 - Provided with necessary libraries and software so user/customer
   could have up and running latest Android OS with no efforts;
+
+---
+
+<iframe
+	name="GloDroid presentation"
+	src="https://docs.google.com/presentation/d/e/2PACX-1vQud4_nsH-UFpPsVYR7IPTBDYwzyqr-JgiRL452GcZIvm_PXkGaeBMiccsOgaId9aT-dpoPXe4cR_-z/embed?start=true&loop=true&delayms=3000"
+	frameborder="0"
+	width="620"
+	height="367"
+	allowfullscreen="true"
+	mozallowfullscreen="true"
+	webkitallowfullscreen="true"
+></iframe>
