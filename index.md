@@ -38,3 +38,8 @@ source ./build/envsetup.sh
 lunch plus2e-userdebug
 make sdcard
 ```
+
+---
+
+Visit the [wiki](https://github.com/GloDroid/glodroid_manifest/wiki)
+for details.
