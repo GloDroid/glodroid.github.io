@@ -45,3 +45,5 @@ make sdcard
 
 Visit the [wiki](https://github.com/GloDroid/glodroid_manifest/wiki)
 for details.
+
+You could find GloDroid community discord chat [here](https://discord.gg/2z5VUv6).
