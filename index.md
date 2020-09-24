@@ -39,6 +39,8 @@ lunch plus2e-userdebug
 make sdcard
 ```
 
+### [Releases](https://github.com/GloDroid/glodroid_manifest/releases)
+
 ---
 
 Visit the [wiki](https://github.com/GloDroid/glodroid_manifest/wiki)
